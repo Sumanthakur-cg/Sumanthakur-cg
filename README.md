@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Suman Thakur! 👋
 
-<!--
-**Sumanthakur-cg/Sumanthakur-cg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👨‍💻 I'm a passionate A4 Analyst/Software Engineer with expertise in Java, React, HTML, CSS, JavaScript, and Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning and exploring new technologies to enhance my skills.
+
+## Skills
+
+### Programming Languages & Tools:
+- Java
+- React
+- HTML5
+- CSS3
+- JavaScript
+- Angular
+
+## Contact Me
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suman-thakur)
